@@ -1,0 +1,67 @@
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.deps.json
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.runtimeconfig.json
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.runtimeconfig.dev.json
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.dll
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.pdb
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.AssemblyInfo.cs
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.dll
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.pdb
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.genruntimeconfig.cache
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.deps.json
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.runtimeconfig.json
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.runtimeconfig.dev.json
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.dll
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.pdb
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.csproj.AssemblyReference.cache
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.AssemblyInfoInputs.cache
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.AssemblyInfo.cs
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.dll
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.pdb
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.genruntimeconfig.cache
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.deps.json
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.runtimeconfig.json
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.runtimeconfig.dev.json
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.dll
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/bin/Debug/netcoreapp3.1/LaundryMachine.pdb
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.csproj.AssemblyReference.cache
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.AssemblyInfoInputs.cache
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.AssemblyInfo.cs
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.dll
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.pdb
+/Users/macbook/Projects/LaundryMachine/LaundryMachine/obj/Debug/netcoreapp3.1/LaundryMachine.genruntimeconfig.cache
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.exe
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.deps.json
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.runtimeconfig.json
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.runtimeconfig.dev.json
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.dll
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.pdb
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.csproj.AssemblyReference.cache
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.AssemblyInfoInputs.cache
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.AssemblyInfo.cs
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.csproj.CoreCompileInputs.cache
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.dll
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.pdb
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.genruntimeconfig.cache
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.exe
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.deps.json
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.runtimeconfig.json
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.runtimeconfig.dev.json
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.dll
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\bin\Debug\netcoreapp3.1\LaundryMachine.pdb
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.csproj.AssemblyReference.cache
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.AssemblyInfoInputs.cache
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.AssemblyInfo.cs
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.csproj.CoreCompileInputs.cache
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.dll
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.pdb
+C:\Users\23480\Downloads\Laundry Machine\LaundryMachine\obj\Debug\netcoreapp3.1\LaundryMachine.genruntimeconfig.cache

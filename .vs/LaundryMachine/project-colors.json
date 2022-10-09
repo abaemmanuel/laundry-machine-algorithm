@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3940d38a-0eea-4d8b-8c88-d2e7bf16db2b": {
+      "ProjectGuid": "3940d38a-0eea-4d8b-8c88-d2e7bf16db2b",
+      "DisplayName": "CoreSolution",
+      "ColorIndex": 0
+    },
+    "cf186e54-8285-41bc-b52e-5b585165dcf6": {
+      "ProjectGuid": "cf186e54-8285-41bc-b52e-5b585165dcf6",
+      "DisplayName": "SolutionTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

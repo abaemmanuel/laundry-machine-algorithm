@@ -1,0 +1,50 @@
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/CoreSolution/bin/Debug/netcoreapp3.1/CoreSolution.deps.json
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/CoreSolution/bin/Debug/netcoreapp3.1/CoreSolution.dll
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/CoreSolution/bin/Debug/netcoreapp3.1/CoreSolution.pdb
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.AssemblyInfo.cs
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.dll
+/Users/macbook/Projects/Repos/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.pdb
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/CoreSolution/bin/Debug/netcoreapp3.1/CoreSolution.deps.json
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/CoreSolution/bin/Debug/netcoreapp3.1/CoreSolution.dll
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/CoreSolution/bin/Debug/netcoreapp3.1/CoreSolution.pdb
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.csproj.AssemblyReference.cache
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.AssemblyInfoInputs.cache
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.AssemblyInfo.cs
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.dll
+/Users/macbook/Projects/cidospark-teah repo/algo-for-intermediate/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.pdb
+/Users/macbook/Projects/LaundryMachine/CoreSolution/bin/Debug/netcoreapp3.1/CoreSolution.deps.json
+/Users/macbook/Projects/LaundryMachine/CoreSolution/bin/Debug/netcoreapp3.1/CoreSolution.dll
+/Users/macbook/Projects/LaundryMachine/CoreSolution/bin/Debug/netcoreapp3.1/CoreSolution.pdb
+/Users/macbook/Projects/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.csproj.AssemblyReference.cache
+/Users/macbook/Projects/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.AssemblyInfoInputs.cache
+/Users/macbook/Projects/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.AssemblyInfo.cs
+/Users/macbook/Projects/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.dll
+/Users/macbook/Projects/LaundryMachine/CoreSolution/obj/Debug/netcoreapp3.1/CoreSolution.pdb
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\CoreSolution\bin\Debug\netcoreapp3.1\CoreSolution.deps.json
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\CoreSolution\bin\Debug\netcoreapp3.1\CoreSolution.dll
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\CoreSolution\bin\Debug\netcoreapp3.1\CoreSolution.pdb
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.csproj.AssemblyReference.cache
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.AssemblyInfoInputs.cache
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.AssemblyInfo.cs
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.csproj.CoreCompileInputs.cache
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.dll
+C:\Users\23480\Downloads\drive-download-20220512T145537Z-001\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.pdb
+C:\Users\23480\Downloads\Laundry Machine\CoreSolution\bin\Debug\netcoreapp3.1\CoreSolution.deps.json
+C:\Users\23480\Downloads\Laundry Machine\CoreSolution\bin\Debug\netcoreapp3.1\CoreSolution.dll
+C:\Users\23480\Downloads\Laundry Machine\CoreSolution\bin\Debug\netcoreapp3.1\CoreSolution.pdb
+C:\Users\23480\Downloads\Laundry Machine\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.csproj.AssemblyReference.cache
+C:\Users\23480\Downloads\Laundry Machine\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23480\Downloads\Laundry Machine\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.AssemblyInfoInputs.cache
+C:\Users\23480\Downloads\Laundry Machine\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.AssemblyInfo.cs
+C:\Users\23480\Downloads\Laundry Machine\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.csproj.CoreCompileInputs.cache
+C:\Users\23480\Downloads\Laundry Machine\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.dll
+C:\Users\23480\Downloads\Laundry Machine\CoreSolution\obj\Debug\netcoreapp3.1\CoreSolution.pdb
